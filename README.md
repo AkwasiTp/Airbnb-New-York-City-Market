@@ -25,7 +25,7 @@ From the Airbnb_room_type dataset:
 -	Fixed the #Name? errors in the description column by removing the equal to sign that preceeded the texts
 
 ## LINKS 
-- [Documentation | Word file](documentation.docx)
+- [Documentation | Word file](Documentation.docx)
 - [Power BI | Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNzFjYWQxMDctZjViZC00ZjkzLWE0OWYtYzMxMzhmZThmYzY1IiwidCI6ImE5NjMwYTViLTA5M2EtNDM5Yy04NjM5LThhYmJmMzRhN2M5NyJ9)
 
 ## ANSWERS TO PROJECT QUESTIONS
@@ -44,6 +44,11 @@ From the Airbnb_room_type dataset:
 
 ## ANALYSIS REPORT
 The interactive version of the report below can be found here [Prince's Analysis | Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzFjYWQxMDctZjViZC00ZjkzLWE0OWYtYzMxMzhmZThmYzY1IiwidCI6ImE5NjMwYTViLTA5M2EtNDM5Yy04NjM5LThhYmJmMzRhN2M5NyJ9)
+
+![](powerbi.png)
+
+
+Thanks for reading :handshake:
 
 
 
