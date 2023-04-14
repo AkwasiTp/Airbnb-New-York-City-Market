@@ -32,20 +32,22 @@ From the Airbnb_room_type dataset:
 -	The average price of Airbnb listing in NYC is $141.78
 -	Private rooms have 11,356 adverts.
 - The most expensive listing is a private room in Brooklyn, East Flatbush which costs $7,500.
--	Average Listing price per room type:
+-	Monthly comparison between Average price for All Listings vs Private Room:
 
-![image](https://user-images.githubusercontent.com/95665690/230545538-1d38901b-e684-482f-99af-f5393d4b75a8.png)
+![image](https://user-images.githubusercontent.com/95665690/232015087-f2c438f1-180b-48fb-a711-2fd590877b7b.png)
+
 
 
 - Price comparison across the five NYC boroughs:
 
-![image](https://user-images.githubusercontent.com/95665690/230545612-24c0a051-f62d-492e-80f1-d126c2cd9049.png)
+![image](https://user-images.githubusercontent.com/95665690/232015248-65da1a95-3f6c-4834-9b22-77c0861afd76.png)
+
 
 
 ## ANALYSIS REPORT
 The interactive version of the report below can be found here [Prince's Analysis | Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzFjYWQxMDctZjViZC00ZjkzLWE0OWYtYzMxMzhmZThmYzY1IiwidCI6ImE5NjMwYTViLTA5M2EtNDM5Yy04NjM5LThhYmJmMzRhN2M5NyJ9)
 
-![](powerbi.png)
+![](dashboard.png)
 
 
 Thanks for reading :handshake:
